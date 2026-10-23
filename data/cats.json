@@ -6,7 +6,8 @@
     "origen": "Etiopía",
     "tiempo_de_vida": "9-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/gdGPShs1/Abisinio.webp"
+    "imagen": "https://i.postimg.cc/gdGPShs1/Abisinio.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/abisinio.webp"
   },
   {
     "id": 2,
@@ -15,7 +16,8 @@
     "origen": "Grecia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/jKRrgfcG/Aegean.webp"
+    "imagen": "https://i.postimg.cc/jKRrgfcG/Aegean.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/aegean.webp"
   },
   {
     "id": 3,
@@ -24,7 +26,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "11-15 años",
     "peso": "3-7 kg",
-    "imagen": "https://i.postimg.cc/dvJKHC6p/American-Bobtail.webp"
+    "imagen": "https://i.postimg.cc/dvJKHC6p/American-Bobtail.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/american-bobtail.webp"
   },
   {
     "id": 4,
@@ -33,7 +36,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/0x9qWSZ1/American-Curl.webp"
+    "imagen": "https://i.postimg.cc/0x9qWSZ1/American-Curl.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/american-curl.webp"
   },
   {
     "id": 5,
@@ -42,7 +46,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "15-20 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/nZntRmTb/American-Shorthair.webp"
+    "imagen": "https://i.postimg.cc/nZntRmTb/American-Shorthair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/american-shorthair.webp"
   },
   {
     "id": 6,
@@ -51,7 +56,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/0x9qWSZs/American-Wirehair.webp"
+    "imagen": "https://i.postimg.cc/0x9qWSZs/American-Wirehair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/american-wirehair.webp"
   },
   {
     "id": 7,
@@ -60,7 +66,8 @@
     "origen": "Arabia",
     "tiempo_de_vida": "12-14 años",
     "peso": "3-7 kg",
-    "imagen": "https://i.postimg.cc/pxPtGjkt/Arabian-mau.webp"
+    "imagen": "https://i.postimg.cc/pxPtGjkt/Arabian-mau.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/arabian-mau.webp"
   },
   {
     "id": 8,
@@ -69,7 +76,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/BsJGYFN3/Asian.webp"
+    "imagen": "https://i.postimg.cc/BsJGYFN3/Asian.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/asian.webp"
   },
   {
     "id": 9,
@@ -78,7 +86,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/0x9qWSZ9/Asian-Semi-longhair.webp"
+    "imagen": "https://i.postimg.cc/0x9qWSZ9/Asian-Semi-longhair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/asian-semi-longhair.webp"
   },
   {
     "id": 10,
@@ -87,7 +96,8 @@
     "origen": "Australia",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/2mCfcWTz/Australian-Mist.webp"
+    "imagen": "https://i.postimg.cc/2mCfcWTz/Australian-Mist.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/australian-mist.webp"
   },
   {
     "id": 11,
@@ -96,7 +106,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "12-20 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/1PyZCFMm/Balinese.webp"
+    "imagen": "https://i.postimg.cc/1PyZCFMm/Balinese.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/balinese.webp"
   },
   {
     "id": 12,
@@ -105,7 +116,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "8-12 años",
     "peso": "2-4 kg",
-    "imagen": "https://i.postimg.cc/R9vzstGZ/Bambino.webp"
+    "imagen": "https://i.postimg.cc/R9vzstGZ/Bambino.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/bambino.webp"
   },
   {
     "id": 13,
@@ -114,7 +126,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-16 años",
     "peso": "4-7 kg",
-    "imagen": "https://i.postimg.cc/7DXrpLQr/Bengali.webp"
+    "imagen": "https://i.postimg.cc/7DXrpLQr/Bengali.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/bengali.webp"
   },
   {
     "id": 14,
@@ -123,7 +136,8 @@
     "origen": "Birmania",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/q0QH97ZT/Birmano.webp"
+    "imagen": "https://i.postimg.cc/q0QH97ZT/Birmano.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/birmano.webp"
   },
   {
     "id": 15,
@@ -132,7 +146,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/Yk8BJSyw/Bombay.webp"
+    "imagen": "https://i.postimg.cc/Yk8BJSyw/Bombay.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/bombay.webp"
   },
   {
     "id": 16,
@@ -141,7 +156,8 @@
     "origen": "Brasil",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/JmKC9hd8/Brazilian-Shorthair.webp"
+    "imagen": "https://i.postimg.cc/JmKC9hd8/Brazilian-Shorthair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/brazilian-shorthair.webp"
   },
   {
     "id": 17,
@@ -150,7 +166,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "12-17 años",
     "peso": "4-8 kg",
-    "imagen": "https://i.postimg.cc/xYgVWdFf/British-Longhair.webp"
+    "imagen": "https://i.postimg.cc/xYgVWdFf/British-Longhair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/british-longhair.webp"
   },
   {
     "id": 18,
@@ -159,7 +176,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "12-17 años",
     "peso": "4-8 kg",
-    "imagen": "https://i.postimg.cc/NYbvW0PG/British-Shorthair.webp"
+    "imagen": "https://i.postimg.cc/NYbvW0PG/British-Shorthair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/british-shorthair.webp"
   },
   {
     "id": 19,
@@ -168,7 +186,8 @@
     "origen": "Birmania",
     "tiempo_de_vida": "10-17 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/8DwgqCnT/Burmes.webp"
+    "imagen": "https://i.postimg.cc/8DwgqCnT/Burmes.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/burmes.webp"
   },
   {
     "id": 20,
@@ -177,7 +196,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/jKvYGjk5/Burmilla.webp"
+    "imagen": "https://i.postimg.cc/jKvYGjk5/Burmilla.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/burmilla.webp"
   },
   {
     "id": 21,
@@ -186,7 +206,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-7 kg",
-    "imagen": "https://i.postimg.cc/CYJpWK6d/California-Spangled.webp"
+    "imagen": "https://i.postimg.cc/CYJpWK6d/California-Spangled.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/california-spangled.webp"
   },
   {
     "id": 22,
@@ -195,7 +216,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/8DwgqCn7/Chantilly-Tiffany.webp"
+    "imagen": "https://i.postimg.cc/8DwgqCn7/Chantilly-Tiffany.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/chantilly-tiffany.webp"
   },
   {
     "id": 23,
@@ -204,7 +226,8 @@
     "origen": "Francia",
     "tiempo_de_vida": "12-15 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/V14P3NHr/Chartreux.webp"
+    "imagen": "https://i.postimg.cc/V14P3NHr/Chartreux.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/chartreux.webp"
   },
   {
     "id": 24,
@@ -213,7 +236,8 @@
     "origen": "Egipto",
     "tiempo_de_vida": "10-14 años",
     "peso": "5-11 kg",
-    "imagen": "https://i.postimg.cc/TGQvZPH5/Chausie.webp"
+    "imagen": "https://i.postimg.cc/TGQvZPH5/Chausie.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/chausie.webp"
   },
   {
     "id": 25,
@@ -222,7 +246,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "5-9 kg",
-    "imagen": "https://i.postimg.cc/JmKC9hdX/Cheetoh.webp"
+    "imagen": "https://i.postimg.cc/JmKC9hdX/Cheetoh.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/cheetoh.webp"
   },
   {
     "id": 26,
@@ -231,7 +256,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/HH31fLP5/Colorpoint-Shorthair.webp"
+    "imagen": "https://i.postimg.cc/HH31fLP5/Colorpoint-Shorthair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/colorpoint-shorthair.webp"
   },
   {
     "id": 27,
@@ -240,7 +266,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-4 kg",
-    "imagen": "https://i.postimg.cc/V14P3NHn/Cornish-Rex.webp"
+    "imagen": "https://i.postimg.cc/V14P3NHn/Cornish-Rex.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/cornish-rex.webp"
   },
   {
     "id": 28,
@@ -249,7 +276,8 @@
     "origen": "Isla de Man",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/vMXwpmS5/Cymric.webp"
+    "imagen": "https://i.postimg.cc/vMXwpmS5/Cymric.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/cymric.webp"
   },
   {
     "id": 29,
@@ -258,7 +286,8 @@
     "origen": "Chipre",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/NYbvW0P6/Cyprus.webp"
+    "imagen": "https://i.postimg.cc/NYbvW0P6/Cyprus.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/cyprus.webp"
   },
   {
     "id": 30,
@@ -267,7 +296,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-4 kg",
-    "imagen": "https://i.postimg.cc/hgMRHG39/Devon-Rex.webp"
+    "imagen": "https://i.postimg.cc/hgMRHG39/Devon-Rex.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/devon-rex.webp"
   },
   {
     "id": 31,
@@ -276,7 +306,8 @@
     "origen": "Rusia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/WT3cjPQF/Donskoy.webp"
+    "imagen": "https://i.postimg.cc/WT3cjPQF/Donskoy.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/donskoy.webp"
   },
   {
     "id": 32,
@@ -285,7 +316,8 @@
     "origen": "China",
     "tiempo_de_vida": "10-14 años",
     "peso": "4-7 kg",
-    "imagen": "https://i.postimg.cc/Hdx1HCf8/Dragon-Li.webp"
+    "imagen": "https://i.postimg.cc/Hdx1HCf8/Dragon-Li.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/dragon-li.webp"
   },
   {
     "id": 33,
@@ -294,7 +326,8 @@
     "origen": "Egipto",
     "tiempo_de_vida": "12-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/2r6NmfPB/Egyptian-Mau.webp"
+    "imagen": "https://i.postimg.cc/2r6NmfPB/Egyptian-Mau.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/egyptian-mau.webp"
   },
   {
     "id": 34,
@@ -303,7 +336,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "10-17 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/L2XFRMr1/European-Burmese.webp"
+    "imagen": "https://i.postimg.cc/L2XFRMr1/European-Burmese.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/european-burmese.webp"
   },
   {
     "id": 35,
@@ -312,7 +346,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/wgvYHdSD/Exotic-Shorthair.webp"
+    "imagen": "https://i.postimg.cc/wgvYHdSD/Exotic-Shorthair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/exotic-shorthair.webp"
   },
   {
     "id": 36,
@@ -321,7 +356,8 @@
     "origen": "Canadá",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/hcjRgqH9/Foldex.webp"
+    "imagen": "https://i.postimg.cc/hcjRgqH9/Foldex.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/foldex.webp"
   },
   {
     "id": 37,
@@ -330,7 +366,8 @@
     "origen": "Alemania",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/hcjRgqHb/German-Rex.webp"
+    "imagen": "https://i.postimg.cc/hcjRgqHb/German-Rex.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/german-rex.webp"
   },
   {
     "id": 38,
@@ -339,7 +376,8 @@
     "origen": "Reino Unido",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/2r6NmfPd/Havana-Brown.webp"
+    "imagen": "https://i.postimg.cc/2r6NmfPd/Havana-Brown.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/havana-brown.webp"
   },
   {
     "id": 39,
@@ -348,7 +386,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "9-15 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/TfwvGXZC/Himalayo.webp"
+    "imagen": "https://i.postimg.cc/TfwvGXZC/Himalayo.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/himalayo.webp"
   },
   {
     "id": 40,
@@ -357,7 +396,8 @@
     "origen": "Japón",
     "tiempo_de_vida": "12-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/jt5YKrGM/Japanese-Bobtail.webp"
+    "imagen": "https://i.postimg.cc/jt5YKrGM/Japanese-Bobtail.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/japanese-bobtail.webp"
   },
   {
     "id": 41,
@@ -366,7 +406,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/dw1cvKzN/Javanese.webp"
+    "imagen": "https://i.postimg.cc/dw1cvKzN/Javanese.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/javanese.webp"
   },
   {
     "id": 42,
@@ -375,7 +416,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/c0HGZNVb/Khao-Manee.webp"
+    "imagen": "https://i.postimg.cc/c0HGZNVb/Khao-Manee.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/khao-manee.webp"
   },
   {
     "id": 43,
@@ -384,7 +426,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-4 kg",
-    "imagen": "https://i.postimg.cc/JMnCmW9S/Korat.webp"
+    "imagen": "https://i.postimg.cc/JMnCmW9S/Korat.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/korat.webp"
   },
   {
     "id": 44,
@@ -393,7 +436,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/R4Fx9zjk/Korn-Ja.webp"
+    "imagen": "https://i.postimg.cc/R4Fx9zjk/Korn-Ja.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/korn-ja.webp"
   },
   {
     "id": 45,
@@ -402,7 +446,8 @@
     "origen": "Rusia",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-7 kg",
-    "imagen": "https://i.postimg.cc/c0byLbSX/Kurilian-Bobtail.webp"
+    "imagen": "https://i.postimg.cc/c0byLbSX/Kurilian-Bobtail.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/kurilian-bobtail.webp"
   },
   {
     "id": 46,
@@ -411,7 +456,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/npPbhPJd/La-Perm.webp"
+    "imagen": "https://i.postimg.cc/npPbhPJd/La-Perm.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/laperm.webp"
   },
   {
     "id": 47,
@@ -420,7 +466,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-13 años",
     "peso": "5-11 kg",
-    "imagen": "https://i.postimg.cc/SkvFxvhT/Maine-Coon.webp"
+    "imagen": "https://i.postimg.cc/SkvFxvhT/Maine-Coon.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/maine-coon.webp"
   },
   {
     "id": 48,
@@ -429,7 +476,8 @@
     "origen": "Isla de Man",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/xn4D142p/Manx.webp"
+    "imagen": "https://i.postimg.cc/xn4D142p/Manx.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/manx.webp"
   },
   {
     "id": 49,
@@ -438,7 +486,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-4 kg",
-    "imagen": "https://i.postimg.cc/bpBcwBhF/Munchkin.webp"
+    "imagen": "https://i.postimg.cc/bpBcwBhF/Munchkin.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/munchkin.webp"
   },
   {
     "id": 50,
@@ -447,7 +496,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "11-18 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/bpBcwBhB/Nebelung.webp"
+    "imagen": "https://i.postimg.cc/bpBcwBhB/Nebelung.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/nebelung.webp"
   },
   {
     "id": 51,
@@ -456,7 +506,8 @@
     "origen": "Noruega",
     "tiempo_de_vida": "12-16 años",
     "peso": "4-9 kg",
-    "imagen": "https://i.postimg.cc/pR6bL6HS/Norwegian-Forest-Cat.webp"
+    "imagen": "https://i.postimg.cc/pR6bL6HS/Norwegian-Forest-Cat.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/norwegian-forest-cat.webp"
   },
   {
     "id": 52,
@@ -465,7 +516,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/wgG8jGpP/Ocicat.webp"
+    "imagen": "https://i.postimg.cc/wgG8jGpP/Ocicat.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/ocicat.webp"
   },
   {
     "id": 53,
@@ -474,7 +526,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "2-4 kg",
-    "imagen": "https://i.postimg.cc/3Yc5xcTz/Ojos-Azules.webp"
+    "imagen": "https://i.postimg.cc/3Yc5xcTz/Ojos-Azules.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/ojos-azules.webp"
   },
   {
     "id": 54,
@@ -483,7 +536,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/NBzqjzc3/Oriental-Longhair.webp"
+    "imagen": "https://i.postimg.cc/NBzqjzc3/Oriental-Longhair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/oriental-longhair.webp"
   },
   {
     "id": 55,
@@ -492,7 +546,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/npPbhPxb/Oriental-Shorthair.webp"
+    "imagen": "https://i.postimg.cc/npPbhPxb/Oriental-Shorthair.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/oriental-shorthair.webp"
   },
   {
     "id": 56,
@@ -501,7 +556,8 @@
     "origen": "Irán",
     "tiempo_de_vida": "10-17 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/tpMQ4MbG/Persa.webp"
+    "imagen": "https://i.postimg.cc/tpMQ4MbG/Persa.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/persa.webp"
   },
   {
     "id": 57,
@@ -510,7 +566,8 @@
     "origen": "Rusia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/4sSkxSGT/Peterbald.webp"
+    "imagen": "https://i.postimg.cc/4sSkxSGT/Peterbald.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/peterbald.webp"
   },
   {
     "id": 58,
@@ -519,7 +576,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "4-8 kg",
-    "imagen": "https://i.postimg.cc/bpBcwBPP/Pixie-bob.webp"
+    "imagen": "https://i.postimg.cc/bpBcwBPP/Pixie-bob.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/pixie-bob.webp"
   },
   {
     "id": 59,
@@ -528,7 +586,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "12-16 años",
     "peso": "4-9 kg",
-    "imagen": "https://i.postimg.cc/R4D5ZDmv/Ragamuffin.webp"
+    "imagen": "https://i.postimg.cc/R4D5ZDmv/Ragamuffin.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/ragamuffin.webp"
   },
   {
     "id": 60,
@@ -537,7 +596,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "12-17 años",
     "peso": "4-9 kg",
-    "imagen": "https://i.postimg.cc/QhyGdyDX/Ragdoll.webp"
+    "imagen": "https://i.postimg.cc/QhyGdyDX/Ragdoll.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/ragdoll.webp"
   },
   {
     "id": 61,
@@ -546,7 +606,8 @@
     "origen": "Rusia",
     "tiempo_de_vida": "10-20 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/vbNFZNyH/Russian-Blue.webp"
+    "imagen": "https://i.postimg.cc/vbNFZNyH/Russian-Blue.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/russian-blue.webp"
   },
   {
     "id": 62,
@@ -555,7 +616,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/rMPXwPTw/Sam-Sawet.webp"
+    "imagen": "https://i.postimg.cc/rMPXwPTw/Sam-Sawet.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/sam-sawet.webp"
   },
   {
     "id": 63,
@@ -564,7 +626,8 @@
     "origen": "Escocia",
     "tiempo_de_vida": "11-15 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/L2bK8bSs/Scottish-Fold.webp"
+    "imagen": "https://i.postimg.cc/L2bK8bSs/Scottish-Fold.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/scottish-fold.webp"
   },
   {
     "id": 64,
@@ -573,7 +636,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-15 años",
     "peso": "3-6 kg",
-    "imagen": "https://i.postimg.cc/YMsKCs79/Selkirk-Rex.webp"
+    "imagen": "https://i.postimg.cc/YMsKCs79/Selkirk-Rex.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/selkirk-rex.webp"
   },
   {
     "id": 65,
@@ -582,7 +646,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "4-7 kg",
-    "imagen": "https://i.postimg.cc/Gd5wm5Rt/Serengeti.webp"
+    "imagen": "https://i.postimg.cc/Gd5wm5Rt/Serengeti.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/serengeti.webp"
   },
   {
     "id": 66,
@@ -591,7 +656,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-12 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/5bRd2RJ6/Siamese.webp"
+    "imagen": "https://i.postimg.cc/5bRd2RJ6/Siamese.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/siamese.webp"
   },
   {
     "id": 67,
@@ -600,7 +666,8 @@
     "origen": "Rusia",
     "tiempo_de_vida": "11-18 años",
     "peso": "4-9 kg",
-    "imagen": "https://i.postimg.cc/CwnyBsMY/Siberian.webp"
+    "imagen": "https://i.postimg.cc/CwnyBsMY/Siberian.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/siberian.webp"
   },
   {
     "id": 68,
@@ -609,7 +676,8 @@
     "origen": "Singapur",
     "tiempo_de_vida": "11-15 años",
     "peso": "2-3 kg",
-    "imagen": "https://i.postimg.cc/SmY02fQm/Singapura.webp"
+    "imagen": "https://i.postimg.cc/SmY02fQm/Singapura.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/singapura.webp"
   },
   {
     "id": 69,
@@ -618,7 +686,8 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/w9RKyQx6/Snowshoe.webp"
+    "imagen": "https://i.postimg.cc/w9RKyQx6/Snowshoe.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/snowshoe.webp"
   },
   {
     "id": 70,
@@ -627,7 +696,8 @@
     "origen": "Somalia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/t9n0ZNRq/Somali.webp"
+    "imagen": "https://i.postimg.cc/t9n0ZNRq/Somali.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/somali.webp"
   },
   {
     "id": 71,
@@ -636,7 +706,8 @@
     "origen": "Canadá",
     "tiempo_de_vida": "8-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/1yVxnrR5/Sphynx.webp"
+    "imagen": "https://i.postimg.cc/1yVxnrR5/Sphynx.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/sphynx.webp"
   },
   {
     "id": 72,
@@ -645,7 +716,8 @@
     "origen": "Tailandia",
     "tiempo_de_vida": "10-14 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/s3GFQ4f2/Thai.webp"
+    "imagen": "https://i.postimg.cc/s3GFQ4f2/Thai.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/thai.webp"
   },
   {
     "id": 73,
@@ -654,6 +726,7 @@
     "origen": "Estados Unidos",
     "tiempo_de_vida": "10-16 años",
     "peso": "3-5 kg",
-    "imagen": "https://i.postimg.cc/k7Rr6vM4/Tonkinese.webp"
+    "imagen": "https://i.postimg.cc/k7Rr6vM4/Tonkinese.webp",
+    "miniatura": "https://api-cats-mauve.vercel.app/razas/tonkinese.webp"
   }
 ]
